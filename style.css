@@ -1,0 +1,89 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 15px 30px;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.heading{
+    text-align: center;
+}
+.container{
+    margin: 10px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+textarea{
+    width: 100%;
+    padding: 10px;
+    
+}
+.name{
+    width: 100%;
+    padding: 10px;
+}
+
+.email{
+    width: 100%;
+    padding: 10px;
+}
+
+.pincode{
+    width: 100%;
+    padding: 10px;
+}
+
+.card_type{
+    width: 100%;
+    padding: 10px;
+}
+
+.card{
+    width: 100%;
+    padding: 10px;
+}
+.card_number{
+    width: 100%;
+    padding: 10px;
+}
+.date{
+    width: 100%;
+    padding: 10px;
+}
+.cv{
+    width: 100%;
+    padding: 10px;
+}
+
+
+select{
+    width: 100%;
+    padding: 10px;
+}
+
+.submit{
+    width: 100%;
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border: none;
+
+
+}
+.submit:hover{
+    background-color: hotpink;
+    transition: 1s;
+}
+
+
+
+
+
+
+
